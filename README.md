@@ -16,7 +16,7 @@ askAbout: "Anything about technology"
 <i class="fab fa-facebook" aria-hidden="true"></i>
 [Facebook](https://fb.me/LuisFerGRomoMx)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=luisfergromo)]()
+<!--- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=luisfergromo)]() --->
 
 <!--
 **luisfergromo/luisfergromo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
