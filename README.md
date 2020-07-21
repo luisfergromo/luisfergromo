@@ -11,10 +11,11 @@ const LuisFerGRomo = {
       funFact:"I'm always learning something new"
 }
 ````
-
-[Blog](https://www.notion.so/luisfergromo/Home-ed575e8a309d4a2ca8d2a03ea5fb36f6)
-[Twitter](https://www.twitter.com/luisfergromo)
-[Facebook](https://fb.me/LuisFerGRomoMx)
+<!--p>Here u can find more about me: </p>
+<i class="fab fa-github"-->
+[Blog](https://www.notion.so/luisfergromo/Home-ed575e8a309d4a2ca8d2a03ea5fb36f6) |
+[Twitter](https://www.twitter.com/luisfergromo) |
+[Facebook](https://fb.me/LuisFerGRomoMx) 
 
 <!--- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=luisfergromo)]()
 --->
