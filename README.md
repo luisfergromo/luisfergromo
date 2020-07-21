@@ -1,22 +1,23 @@
 ## Hey 👋🏻, I'm [Luis Romo](https://lromo.sh.now)
 
+
 ```js
 const LuisFerGRomo = {
-pronouns: "he" | "him",
-code: [JS, HTML, CSS, Swift, Kotlin],
-funFact: "I'm not a programer",
-currentLearning: ["Testing Automation", "Angular", "React"],
-askAbout: "Anything about technology"
+      pronouns: "he" | "him",
+      code: [JS, HTML, CSS, Swift, Kotlin],
+      funFact: "I'm not a programer",
+      currentLearning: ["Testing Automation", "Angular", "React"],
+      askAbout: "Anything about technology",
+      funFact:"I'm always learning something new"
 }
 ````
-<i class="fas fa-blog" aria-hidden="true"></i>
+
 [Blog](https://www.notion.so/luisfergromo/Home-ed575e8a309d4a2ca8d2a03ea5fb36f6)
-<i class="fab fa-twitter" aria-hidden="true"></i>
 [Twitter](https://www.twitter.com/luisfergromo)
-<i class="fab fa-facebook" aria-hidden="true"></i>
 [Facebook](https://fb.me/LuisFerGRomoMx)
 
-<!--- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=luisfergromo)]() --->
+<!--- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=luisfergromo)]()
+--->
 
 <!--
 **luisfergromo/luisfergromo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
