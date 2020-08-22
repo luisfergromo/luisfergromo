@@ -12,8 +12,13 @@ const LuisFerGRomo = {
 };
 ```
 
-## Connect with me
-
+### Get in touch with me
+<!--div align="left">
+<img alt="Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/blogger.svg" href="">
+  <img alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" href="">
+  <img alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" href="">
+  <img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" href="">
+  <div/-->
 [<img align="left" alt="LuisFerGRomo | Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/blogger.svg" />][blog]
 [<img align="left" alt="LuisFerGRomo | FB" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="LuisFerGRomo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -21,6 +26,9 @@ const LuisFerGRomo = {
 
 <br/>
 <br/>
+
+### Languages and Tools:
+
 <div align="left">
   <img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img alt="Android Studio" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
