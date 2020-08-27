@@ -46,6 +46,7 @@ const LuisFerGRomo = {
 <br/>
 
 <details>
+  <summary> Recent Github Activity </summary>
   <!--START_SECTION:activity-->
   </details>
 
