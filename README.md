@@ -1,3 +1,5 @@
+![Twitter Follow](https://img.shields.io/twitter/follow/LuisFerGRomo?color=1DA1F2&label=LuisFerGRomo&logo=Twitter&logoColor=FFFFFF&style=flat-square)
+
 ## Hey 👋🏻, I'm [Luis Romo][website]
 
 ```js
