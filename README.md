@@ -46,6 +46,10 @@ const LuisFerGRomo = {
 <br/>
 
 <details>
+  <!--START_SECTION:activity-->
+  </details>
+
+<details>
 <summary>:zap: Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=luisfergromo"/>
 </details>
