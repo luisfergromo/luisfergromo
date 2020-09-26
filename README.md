@@ -49,10 +49,10 @@ const LuisFerGRomo = {
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//luisfergromo/iles-website/pull/1) in [luisfergromo/iles-website](https://github.com//luisfergromo/iles-website)
-2. 🎉 Merged PR [#3](https://github.com//luisfergromo/iles-website/pull/3) in [luisfergromo/iles-website](https://github.com//luisfergromo/iles-website)
-3. 🎉 Merged PR [#4](https://github.com//luisfergromo/iles-website/pull/4) in [luisfergromo/iles-website](https://github.com//luisfergromo/iles-website)
-4. 🎉 Merged PR [#2](https://github.com//luisfergromo/iles-website/pull/2) in [luisfergromo/iles-website](https://github.com//luisfergromo/iles-website)
+1. 🎉 Merged PR [#1](https://github.com/luisfergromo/iles-website/pull/1) in [luisfergromo/iles-website](https://github.com/luisfergromo/iles-website)
+2. 🎉 Merged PR [#3](https://github.com/luisfergromo/iles-website/pull/3) in [luisfergromo/iles-website](https://github.com/luisfergromo/iles-website)
+3. 🎉 Merged PR [#4](https://github.com/luisfergromo/iles-website/pull/4) in [luisfergromo/iles-website](https://github.com/luisfergromo/iles-website)
+4. 🎉 Merged PR [#2](https://github.com/luisfergromo/iles-website/pull/2) in [luisfergromo/iles-website](https://github.com/luisfergromo/iles-website)
 <!--END_SECTION:activity-->
 
 </details>
