@@ -49,10 +49,10 @@ const LuisFerGRomo = {
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/luisfergromo/testingTemplate/pull/14) in [luisfergromo/testingTemplate](https://github.com/luisfergromo/testingTemplate)
-2. 🎉 Merged PR [#15](https://github.com/luisfergromo/testingTemplate/pull/15) in [luisfergromo/testingTemplate](https://github.com/luisfergromo/testingTemplate)
-3. 🎉 Merged PR [#16](https://github.com/luisfergromo/testingTemplate/pull/16) in [luisfergromo/testingTemplate](https://github.com/luisfergromo/testingTemplate)
-4. 🎉 Merged PR [#1](https://github.com/luisfergromo/iles-website/pull/1) in [luisfergromo/iles-website](https://github.com/luisfergromo/iles-website)
+1. 🗣 Commented on [#214](https://github.com/MicrosoftDocs/intellicode/issues/214) in [MicrosoftDocs/intellicode](https://github.com/MicrosoftDocs/intellicode)
+2. 🎉 Merged PR [#14](https://github.com/luisfergromo/testingTemplate/pull/14) in [luisfergromo/testingTemplate](https://github.com/luisfergromo/testingTemplate)
+3. 🎉 Merged PR [#15](https://github.com/luisfergromo/testingTemplate/pull/15) in [luisfergromo/testingTemplate](https://github.com/luisfergromo/testingTemplate)
+4. 🎉 Merged PR [#16](https://github.com/luisfergromo/testingTemplate/pull/16) in [luisfergromo/testingTemplate](https://github.com/luisfergromo/testingTemplate)
 <!--END_SECTION:activity-->
 
 </details>
