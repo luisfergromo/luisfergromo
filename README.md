@@ -49,10 +49,10 @@ const LuisFerGRomo = {
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2470](https://github.com/pypa/pipenv/issues/2470) in [pypa/pipenv](https://github.com/pypa/pipenv)
-2. 🗣 Commented on [#214](https://github.com/MicrosoftDocs/intellicode/issues/214) in [MicrosoftDocs/intellicode](https://github.com/MicrosoftDocs/intellicode)
+1. ❗️ Opened issue [#1](https://github.com/luisfergromo/fake-sandbox/issues/1) in [luisfergromo/fake-sandbox](https://github.com/luisfergromo/fake-sandbox)
+2. 🗣 Commented on [#2470](https://github.com/pypa/pipenv/issues/2470) in [pypa/pipenv](https://github.com/pypa/pipenv)
 3. 🗣 Commented on [#214](https://github.com/MicrosoftDocs/intellicode/issues/214) in [MicrosoftDocs/intellicode](https://github.com/MicrosoftDocs/intellicode)
-4. 🎉 Merged PR [#14](https://github.com/luisfergromo/testingTemplate/pull/14) in [luisfergromo/testingTemplate](https://github.com/luisfergromo/testingTemplate)
+4. 🗣 Commented on [#214](https://github.com/MicrosoftDocs/intellicode/issues/214) in [MicrosoftDocs/intellicode](https://github.com/MicrosoftDocs/intellicode)
 <!--END_SECTION:activity-->
 
 </details>
