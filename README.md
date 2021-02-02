@@ -49,10 +49,10 @@ const LuisFerGRomo = {
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/luisfergromo/fake-sandbox/issues/4) in [luisfergromo/fake-sandbox](https://github.com/luisfergromo/fake-sandbox)
-2. ❗️ Closed issue [#3](https://github.com/luisfergromo/fake-sandbox/issues/3) in [luisfergromo/fake-sandbox](https://github.com/luisfergromo/fake-sandbox)
-3. ❗️ Closed issue [#2](https://github.com/luisfergromo/fake-sandbox/issues/2) in [luisfergromo/fake-sandbox](https://github.com/luisfergromo/fake-sandbox)
-4. ❗️ Closed issue [#1](https://github.com/luisfergromo/fake-sandbox/issues/1) in [luisfergromo/fake-sandbox](https://github.com/luisfergromo/fake-sandbox)
+1. ❗️ Closed issue [#4](https://github.com/luisfergromo/fake-sandbox/issues/4) in [luisfergromo/fake-sandbox](https://github.com/luisfergromo/fake-sandbox)
+2. ❗️ Opened issue [#4](https://github.com/luisfergromo/fake-sandbox/issues/4) in [luisfergromo/fake-sandbox](https://github.com/luisfergromo/fake-sandbox)
+3. ❗️ Closed issue [#3](https://github.com/luisfergromo/fake-sandbox/issues/3) in [luisfergromo/fake-sandbox](https://github.com/luisfergromo/fake-sandbox)
+4. ❗️ Closed issue [#2](https://github.com/luisfergromo/fake-sandbox/issues/2) in [luisfergromo/fake-sandbox](https://github.com/luisfergromo/fake-sandbox)
 <!--END_SECTION:activity-->
 
 </details>
