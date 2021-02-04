@@ -29,16 +29,13 @@ div align="left">
   <img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" href="">
   <div/-->
 <!--
-[<img align="left" alt="LuisFerGRomo | Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/blogger.svg" />][blog]
-[<img align="left" alt="LuisFerGRomo | FB" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="LuisFerGRomo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LuisFerGRomo | IG" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<br/>
--->
-
-
+  [<img align="left" alt="LuisFerGRomo | Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/blogger.svg" />][blog]
+  [<img align="left" alt="LuisFerGRomo | FB" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+  [<img align="left" alt="LuisFerGRomo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+  [<img align="left" alt="LuisFerGRomo | IG" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+  <br/-->
+<!--
 ### Languages and Tools:
-
 <div align="left">
   <img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img alt="Android Studio" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
@@ -50,7 +47,7 @@ div align="left">
 <img alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 <img alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 <img alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
-  <div/>
+  <div/>-->
 <br/>
 <br/>
 
