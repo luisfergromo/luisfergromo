@@ -5,12 +5,16 @@
 ```js
 const LuisFerGRomo = {
   pronouns: "he" | "him",
-  code: [JS, HTML, CSS, Swift, Kotlin],
+  code: [JS, HTML, CSS, Swift, Kotlin, Python],
   funFact: "I'm not a programer",
-  currentLearning: ["Testing Automation", "Angular", "React"],
+  currentLearning: ["Testing Automation", "Python"],
   askAbout: "Anything about technology",
   funFact: "I'm always learning something new",
   workplace: "Ulab ITESO",
+  blog: "[blog]",
+  fb: "[facebook]",
+  twitter:"[twitter]",
+  instagram: "[instagram]"
 };
 ```
 
@@ -21,11 +25,12 @@ const LuisFerGRomo = {
   <img alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" href="">
   <img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" href="">
   <div/-->
+<!--
 [<img align="left" alt="LuisFerGRomo | Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/blogger.svg" />][blog]
 [<img align="left" alt="LuisFerGRomo | FB" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="LuisFerGRomo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LuisFerGRomo | IG" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+-->
 <br/>
 
 ### Languages and Tools:
