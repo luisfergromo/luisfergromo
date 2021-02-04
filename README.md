@@ -11,13 +11,13 @@ const LuisFerGRomo = {
   askAbout: "Anything about technology",
   funFact: "I'm always learning something new",
   workplace: ["Ulab ITESO":"https://www.google.com/search?q=ulab+iteso"],
-  socialMedia: [
+  socialMedia: {
     blog: "https://www.notion.so/luisfergromo/Home-ed575e8a309d4a2ca8d2a03ea5fb36f6",
     fb: "https://fb.me/LuisFerGRomoMx",
     twitter:"https://twitter.com/LuisFerGRomo",
     instagram: "https://instagram.com/LuisFerGRomo",
     linkedin: "https://linkedin.com/in/LuisFerGRomo",
-  ]
+  }
 };
 ```
 <!--
