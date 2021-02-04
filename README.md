@@ -10,16 +10,19 @@ const LuisFerGRomo = {
   currentLearning: ["Testing Automation", "Python"],
   askAbout: "Anything about technology",
   funFact: "I'm always learning something new",
-  workplace: "Ulab ITESO",
-  blog: "https://www.notion.so/luisfergromo/Home-ed575e8a309d4a2ca8d2a03ea5fb36f6",
-  fb: "[facebook]",
-  twitter:"[twitter]",
-  instagram: "[instagram]"
+  workplace: ["Ulab ITESO":"https://www.google.com/search?q=ulab+iteso"],
+  socialMedia: [
+    blog: "https://www.notion.so/luisfergromo/Home-ed575e8a309d4a2ca8d2a03ea5fb36f6",
+    fb: "https://fb.me/LuisFerGRomoMx",
+    twitter:"https://twitter.com/LuisFerGRomo",
+    instagram: "https://instagram.com/LuisFerGRomo",
+    linkedin: "https://linkedin.com/in/LuisFerGRomo",
+  ]
 };
 ```
-
+<!--
 ### Get in touch with me
-<!--div align="left">
+div align="left">
 <img alt="Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/blogger.svg" href="">
   <img alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" href="">
   <img alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" href="">
