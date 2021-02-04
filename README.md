@@ -11,7 +11,7 @@ const LuisFerGRomo = {
   askAbout: "Anything about technology",
   funFact: "I'm always learning something new",
   workplace: "Ulab ITESO",
-  blog: "[blog]",
+  blog: "https://www.notion.so/luisfergromo/Home-ed575e8a309d4a2ca8d2a03ea5fb36f6",
   fb: "[facebook]",
   twitter:"[twitter]",
   instagram: "[instagram]"
