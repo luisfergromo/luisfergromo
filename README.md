@@ -49,10 +49,10 @@ const LuisFerGRomo = {
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/luisfergromo/iles-website/pull/1) in [luisfergromo/iles-website](https://github.com/luisfergromo/iles-website)
-2. 🎉 Merged PR [#3](https://github.com/luisfergromo/iles-website/pull/3) in [luisfergromo/iles-website](https://github.com/luisfergromo/iles-website)
-3. 🎉 Merged PR [#4](https://github.com/luisfergromo/iles-website/pull/4) in [luisfergromo/iles-website](https://github.com/luisfergromo/iles-website)
-4. 🎉 Merged PR [#2](https://github.com/luisfergromo/iles-website/pull/2) in [luisfergromo/iles-website](https://github.com/luisfergromo/iles-website)
+1. ❗️ Closed issue [#1](https://github.com/ITESO-Ulab/PruebaGit4/issues/1) in [ITESO-Ulab/PruebaGit4](https://github.com/ITESO-Ulab/PruebaGit4)
+2. 🎉 Merged PR [#2](https://github.com/ITESO-Ulab/PruebaGit4/pull/2) in [ITESO-Ulab/PruebaGit4](https://github.com/ITESO-Ulab/PruebaGit4)
+3. 💪 Opened PR [#2](https://github.com/ITESO-Ulab/PruebaGit4/pull/2) in [ITESO-Ulab/PruebaGit4](https://github.com/ITESO-Ulab/PruebaGit4)
+4. ❗️ Opened issue [#1](https://github.com/ITESO-Ulab/PruebaGit4/issues/1) in [ITESO-Ulab/PruebaGit4](https://github.com/ITESO-Ulab/PruebaGit4)
 <!--END_SECTION:activity-->
 
 </details>
