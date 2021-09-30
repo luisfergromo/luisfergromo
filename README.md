@@ -49,10 +49,10 @@ const LuisFerGRomo = {
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/ITESO-Ulab/start-here/pull/10) in [ITESO-Ulab/start-here](https://github.com/ITESO-Ulab/start-here)
-2. 💪 Opened PR [#9](https://github.com/ITESO-Ulab/start-here/pull/9) in [ITESO-Ulab/start-here](https://github.com/ITESO-Ulab/start-here)
-3. 🎉 Merged PR [#8](https://github.com/ITESO-Ulab/PruebaGit/pull/8) in [ITESO-Ulab/PruebaGit](https://github.com/ITESO-Ulab/PruebaGit)
-4. 💪 Opened PR [#210](https://github.com/github-craftwork/start-here/pull/210) in [github-craftwork/start-here](https://github.com/github-craftwork/start-here)
+1. 🎉 Merged PR [#5](https://github.com/luisfergromo/weather-app/pull/5) in [luisfergromo/weather-app](https://github.com/luisfergromo/weather-app)
+2. 🎉 Merged PR [#7](https://github.com/luisfergromo/weather-app/pull/7) in [luisfergromo/weather-app](https://github.com/luisfergromo/weather-app)
+3. 🎉 Merged PR [#14](https://github.com/luisfergromo/weather-app/pull/14) in [luisfergromo/weather-app](https://github.com/luisfergromo/weather-app)
+4. 🎉 Merged PR [#13](https://github.com/luisfergromo/weather-app/pull/13) in [luisfergromo/weather-app](https://github.com/luisfergromo/weather-app)
 <!--END_SECTION:activity-->
 
 </details>
