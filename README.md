@@ -49,10 +49,10 @@ const LuisFerGRomo = {
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/luisfergromo/weather-app/pull/5) in [luisfergromo/weather-app](https://github.com/luisfergromo/weather-app)
-2. 🎉 Merged PR [#7](https://github.com/luisfergromo/weather-app/pull/7) in [luisfergromo/weather-app](https://github.com/luisfergromo/weather-app)
-3. 🎉 Merged PR [#14](https://github.com/luisfergromo/weather-app/pull/14) in [luisfergromo/weather-app](https://github.com/luisfergromo/weather-app)
-4. 🎉 Merged PR [#13](https://github.com/luisfergromo/weather-app/pull/13) in [luisfergromo/weather-app](https://github.com/luisfergromo/weather-app)
+1. 🎉 Merged PR [#2](https://github.com/luisfergromo/probable-palm-tree/pull/2) in [luisfergromo/probable-palm-tree](https://github.com/luisfergromo/probable-palm-tree)
+2. 💪 Opened PR [#2](https://github.com/luisfergromo/probable-palm-tree/pull/2) in [luisfergromo/probable-palm-tree](https://github.com/luisfergromo/probable-palm-tree)
+3. 🎉 Merged PR [#1](https://github.com/luisfergromo/probable-palm-tree/pull/1) in [luisfergromo/probable-palm-tree](https://github.com/luisfergromo/probable-palm-tree)
+4. 💪 Opened PR [#1](https://github.com/luisfergromo/probable-palm-tree/pull/1) in [luisfergromo/probable-palm-tree](https://github.com/luisfergromo/probable-palm-tree)
 <!--END_SECTION:activity-->
 
 </details>
