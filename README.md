@@ -5,12 +5,12 @@
 ```js
 const LuisFerGRomo = {
   pronouns: "he" | "him",
-  code: [JS, HTML, CSS, Swift, Kotlin],
+  code: [JS, HTML, CSS, Swift, Kotlin, Python],
   funFact: "I'm not a programer",
-  currentLearning: ["Testing Automation", "Angular", "React"],
+  currentLearning: ["Testing Automation", "PowerBi" "Angular", "React"],
   askAbout: "Anything about technology",
   funFact: "I'm always learning something new",
-  workplace: "Ulab ITESO",
+  workplace: "Ulab - ITESO",
 };
 ```
 
