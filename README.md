@@ -10,7 +10,7 @@ const LuisFerGRomo = {
   currentLearning: ["Testing Automation", "PowerBi" "Angular", "React"],
   askAbout: "Anything about technology",
   funFact: "I'm always learning something new",
-  workplace: "Ulab - ITESO",
+  workplace: "ITESO",
 };
 ```
 
