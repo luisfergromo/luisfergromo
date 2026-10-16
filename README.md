@@ -48,10 +48,10 @@ const LuisFerGRomo = {
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15](https://github.com/ITESO-Ulab/start-here/pull/15) in [ITESO-Ulab/start-here](https://github.com/ITESO-Ulab/start-here)
-2. 💪 Opened PR [#14](https://github.com/ITESO-Ulab/start-here/pull/14) in [ITESO-Ulab/start-here](https://github.com/ITESO-Ulab/start-here)
-3. 💪 Opened PR [#13](https://github.com/ITESO-Ulab/start-here/pull/13) in [ITESO-Ulab/start-here](https://github.com/ITESO-Ulab/start-here)
-4. 💪 Opened PR [#12](https://github.com/ITESO-Ulab/start-here/pull/12) in [ITESO-Ulab/start-here](https://github.com/ITESO-Ulab/start-here)
+1. 🎉 Merged PR [#1](https://github.com/luisfergromo/garmin-health-mcp/pull/1) in [luisfergromo/garmin-health-mcp](https://github.com/luisfergromo/garmin-health-mcp)
+2. ℹ️ Labeled PR [#1](https://github.com/luisfergromo/garmin-health-mcp/pull/1) in [luisfergromo/garmin-health-mcp](https://github.com/luisfergromo/garmin-health-mcp)
+3. 💪 Opened PR [#1](https://github.com/luisfergromo/garmin-health-mcp/pull/1) in [luisfergromo/garmin-health-mcp](https://github.com/luisfergromo/garmin-health-mcp)
+4. 💪 Opened PR [#69](https://github.com/ingelibre/ingetrazo/pull/69) in [ingelibre/ingetrazo](https://github.com/ingelibre/ingetrazo)
 <!--END_SECTION:activity-->
 
 </details>
