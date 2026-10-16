@@ -6,10 +6,9 @@
 const LuisFerGRomo = {
   pronouns: "he" | "him",
   code: [JS, HTML, CSS, Swift, Kotlin, Python],
-  funFact: "I'm not a programer",
-  currentLearning: ["Testing Automation", "PowerBi" "Angular", "React"],
-  askAbout: "Anything about technology",
   funFact: "I'm always learning something new",
+  currentLearning: ["Testing Automation", "PowerBi", "Angular", "React"],
+  askAbout: "Anything about technology",
   workplace: "Freelance",
 };
 ```
