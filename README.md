@@ -48,10 +48,10 @@ const LuisFerGRomo = {
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/luisfergromo/garmin-health-mcp/pull/1) in [luisfergromo/garmin-health-mcp](https://github.com/luisfergromo/garmin-health-mcp)
-2. ℹ️ Labeled PR [#1](https://github.com/luisfergromo/garmin-health-mcp/pull/1) in [luisfergromo/garmin-health-mcp](https://github.com/luisfergromo/garmin-health-mcp)
-3. 💪 Opened PR [#1](https://github.com/luisfergromo/garmin-health-mcp/pull/1) in [luisfergromo/garmin-health-mcp](https://github.com/luisfergromo/garmin-health-mcp)
-4. 💪 Opened PR [#69](https://github.com/ingelibre/ingetrazo/pull/69) in [ingelibre/ingetrazo](https://github.com/ingelibre/ingetrazo)
+1. 💪 Opened PR [#666](https://github.com/ingelibre/ingetrazo/pull/666) in [ingelibre/ingetrazo](https://github.com/ingelibre/ingetrazo)
+2. 💪 Opened PR [#665](https://github.com/ingelibre/ingetrazo/pull/665) in [ingelibre/ingetrazo](https://github.com/ingelibre/ingetrazo)
+3. 💪 Opened PR [#664](https://github.com/ingelibre/ingetrazo/pull/664) in [ingelibre/ingetrazo](https://github.com/ingelibre/ingetrazo)
+4. ❌ Closed PR [#69](https://github.com/ingelibre/ingetrazo/pull/69) in [ingelibre/ingetrazo](https://github.com/ingelibre/ingetrazo)
 <!--END_SECTION:activity-->
 
 </details>
