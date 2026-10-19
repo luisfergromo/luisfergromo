@@ -48,10 +48,10 @@ const LuisFerGRomo = {
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#666](https://github.com/ingelibre/ingetrazo/pull/666) in [ingelibre/ingetrazo](https://github.com/ingelibre/ingetrazo)
-2. 💪 Opened PR [#665](https://github.com/ingelibre/ingetrazo/pull/665) in [ingelibre/ingetrazo](https://github.com/ingelibre/ingetrazo)
-3. 💪 Opened PR [#664](https://github.com/ingelibre/ingetrazo/pull/664) in [ingelibre/ingetrazo](https://github.com/ingelibre/ingetrazo)
-4. ❌ Closed PR [#69](https://github.com/ingelibre/ingetrazo/pull/69) in [ingelibre/ingetrazo](https://github.com/ingelibre/ingetrazo)
+1. 🗣 Commented on [#666](https://github.com/ingelibre/ingetrazo/pull/666#issuecomment-6254510713) in [ingelibre/ingetrazo](https://github.com/ingelibre/ingetrazo)
+2. 💪 Opened PR [#666](https://github.com/ingelibre/ingetrazo/pull/666) in [ingelibre/ingetrazo](https://github.com/ingelibre/ingetrazo)
+3. 💪 Opened PR [#665](https://github.com/ingelibre/ingetrazo/pull/665) in [ingelibre/ingetrazo](https://github.com/ingelibre/ingetrazo)
+4. 💪 Opened PR [#664](https://github.com/ingelibre/ingetrazo/pull/664) in [ingelibre/ingetrazo](https://github.com/ingelibre/ingetrazo)
 <!--END_SECTION:activity-->
 
 </details>
