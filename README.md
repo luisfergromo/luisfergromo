@@ -48,10 +48,10 @@ const LuisFerGRomo = {
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#666](https://github.com/ingelibre/ingetrazo/pull/666#issuecomment-6254510713) in [ingelibre/ingetrazo](https://github.com/ingelibre/ingetrazo)
-2. 💪 Opened PR [#666](https://github.com/ingelibre/ingetrazo/pull/666) in [ingelibre/ingetrazo](https://github.com/ingelibre/ingetrazo)
-3. 💪 Opened PR [#665](https://github.com/ingelibre/ingetrazo/pull/665) in [ingelibre/ingetrazo](https://github.com/ingelibre/ingetrazo)
-4. 💪 Opened PR [#664](https://github.com/ingelibre/ingetrazo/pull/664) in [ingelibre/ingetrazo](https://github.com/ingelibre/ingetrazo)
+1. 💪 Opened PR [#68](https://github.com/luisfergromo/luisfergromo.github.io/pull/68) in [luisfergromo/luisfergromo.github.io](https://github.com/luisfergromo/luisfergromo.github.io)
+2. ❌ Closed PR [#66](https://github.com/luisfergromo/luisfergromo.github.io/pull/66) in [luisfergromo/luisfergromo.github.io](https://github.com/luisfergromo/luisfergromo.github.io)
+3. ❌ Closed PR [#64](https://github.com/luisfergromo/luisfergromo.github.io/pull/64) in [luisfergromo/luisfergromo.github.io](https://github.com/luisfergromo/luisfergromo.github.io)
+4. ❌ Closed PR [#62](https://github.com/luisfergromo/luisfergromo.github.io/pull/62) in [luisfergromo/luisfergromo.github.io](https://github.com/luisfergromo/luisfergromo.github.io)
 <!--END_SECTION:activity-->
 
 </details>
